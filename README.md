@@ -13,9 +13,9 @@ npm install electron-packager --save-dev
 
 **Instructions**
 
-1- Build your vue app for production.
-2- Copy the files in the dist folder to the electron main directroy. 
-3- Run the following command to compile the code and build installable apps. 
+1. Build your vue app for production.
+2. Copy the files in the dist folder to the electron main directroy. 
+3. Run the following command to compile the code and build installable apps. 
 ** To create a Windows app using mac os, you will need to have wine installed.
 
 ```bash
