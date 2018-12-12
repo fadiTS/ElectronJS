@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "1.1.0",
+  "description": "A TODO Electron application",
+  "main": "main.js",
+  "author": "Fadi Abushawish",
+  "CompanyName": "Fadi Abushawish",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^3.0.7",
+    "electron-packager": "^12.2.0"
+  }
+}
