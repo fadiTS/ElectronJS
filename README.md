@@ -26,4 +26,4 @@ electron-packager . todo --platform=all --overwrite --arch=x64 --icon=/img/logo.
 ## Resources for Electron and Electron Packager APIS 
 
 - [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
-- [github.com/electron-userland/electron-packager] (https://github.com/electron-userland/electron-packager/blob/master/docs/api.md)
+- [github.com/electron-userland/electron-packager](https://github.com/electron-userland/electron-packager/blob/master/docs/api.md) - Electron Packager API
