@@ -1,4 +1,4 @@
-# electron - TODO APP
+# Electron - TODO APP
 
 **Compile Vue app using electron and electron-packager with OS-specific bundles.**
 
