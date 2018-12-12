@@ -23,7 +23,7 @@ npm install electron-packager --save-dev
 electron-packager . todo --platform=all --overwrite --arch=x64 --icon=/img/logo.icns --prune=true --out=release-builds
 ```
 
-## Resources for Electron and Electron Packager APIS 
+## Resources for Electron and Electron Packager APIs 
 
 - [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
 - [github.com/electron-userland/electron-packager](https://github.com/electron-userland/electron-packager/blob/master/docs/api.md) - Electron Packager API
