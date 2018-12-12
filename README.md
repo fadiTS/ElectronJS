@@ -7,6 +7,7 @@
 ```bash
 # Go to repo and install ElectronJs
 npm install electron --save-dev [--save-exact]
+
 # install electron-packager
 npm install electron-packager --save-dev
 ```
